@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Entidades.Documento">
+    <Position X="0.75" Y="0.5" Width="4.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Entidades.Documento.Paso">
+        <TypeIdentifier>
+          <NewMemberFileName>Documento.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAgACQAAAAEAAAAEEAAAEAAAAAAAAABAEAAAUAAIABg=</HashCode>
+      <FileName>Documento.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Libro">
+    <Position X="0.5" Y="8.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAQAAAAAEgAAAABAAAAAAAIAAAAAAAAAAAiA=</HashCode>
+      <FileName>Libro.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Mapa">
+    <Position X="4" Y="8.25" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AQAAEAEAAAAAAAAEgAAAAAABAAAAAYAAAAAAAAAAAiA=</HashCode>
+      <FileName>Mapa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Escaner">
+    <Position X="6" Y="0.5" Width="3" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Entidades.Escaner.Departamento">
+        <TypeIdentifier>
+          <NewMemberFileName>Escaner.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="Entidades.Escaner.TipoDoc">
+        <TypeIdentifier>
+          <NewMemberFileName>Escaner.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAABBAAAAAQAAAAwAAAAAAABAACAIAAAgBAAAAAQiQ=</HashCode>
+      <FileName>Escaner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Informes">
+    <Position X="9.75" Y="0.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEAAQCAEAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>Informes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.DocumentoDuplicadoException">
+    <Position X="9.75" Y="3" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>manejoExcepcion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
